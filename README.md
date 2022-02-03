@@ -1,4 +1,4 @@
-#### Hi there, I am José Eduardo.
+## Hi there, I am José Eduardo.
 <!--
 **BlackGameNeon/BlackGameNeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +25,7 @@ I have worked in the gaming industry for some years. Now currently living in Spa
 I am using this public profile to keep track of my learning code and programs I dev.
 
 ### I am currently learning... 🐱‍👤
-Python.
+Python.<br>
 Pygame.
 
 ```python
