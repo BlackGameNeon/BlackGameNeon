@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 Hardware and Software Engineer at Universidad Tecnológica de México.
 
+I have worked in the gaming industry for some years. Now currently living in Spain, with the heart to cath it, again.
+
 [![GitHub BlackGameNeon](https://img.shields.io/github/followers/blackgameneon?label=follow&style=social)](https://github.com/BlackGameNeon)
 [![Twitter: BlackGameNeon](https://img.shields.io/twitter/follow/BlackGameNeon?style=social)](https://twitter.com/BlackGameNeon)
 [![Linkedin: José Eduardo Terán Rendón](https://img.shields.io/badge/-José_Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseeduardoteranrendon/)](https://www.linkedin.com/in/joseeduardoteranrendon/)
@@ -24,8 +26,14 @@ I am using this public profile to keep track of my learning code and programs I 
 
 ### I am currently learning... 🐱‍👤
 Python.
+Pygame.
 
 ```python
-print("Hola")
+import pygame
+pygame.init()
 
+def main():
+    print("Ready to start the Engine.")
+
+main()
 ```
