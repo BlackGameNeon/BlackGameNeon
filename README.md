@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 Hardware and Software Engineer at Universidad Tecnológica de México.
 
-[![Twitter: BlackGameNeon](https://img.shields.io/twitter/follow/BlackGameNeon?style=social)](https://twitter.com/BlackGameNeon)
-[![Linkedin: José Eduardo Terán Rendón](https://img.shields.io/badge/-blackgameneon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseeduardoteranrendon/)](https://www.linkedin.com/in/joseeduardoteranrendon/)
 [![GitHub BlackGameNeon](https://img.shields.io/github/followers/blackgameneon?label=follow&style=social)](https://github.com/BlackGameNeon)
+[![Twitter: BlackGameNeon](https://img.shields.io/twitter/follow/BlackGameNeon?style=social)](https://twitter.com/BlackGameNeon)
+[![Linkedin: José Eduardo Terán Rendón](https://img.shields.io/badge/-José Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseeduardoteranrendon/)](https://www.linkedin.com/in/joseeduardoteranrendon/)
+
+```python
+print("Hola")
+
+```
