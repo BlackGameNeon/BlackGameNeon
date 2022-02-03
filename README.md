@@ -1,4 +1,4 @@
-<h2> Hi there, I am José Eduardo. </h2>
+#### Hi there, I am José Eduardo.
 <!--
 **BlackGameNeon/BlackGameNeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><em>Hardware and Software Engineer at Universidad Tecnológica de México.</em></p>
+Hardware and Software Engineer at Universidad Tecnológica de México.
 
 [![GitHub BlackGameNeon](https://img.shields.io/github/followers/blackgameneon?label=follow&style=social)](https://github.com/BlackGameNeon)
 [![Twitter: BlackGameNeon](https://img.shields.io/twitter/follow/BlackGameNeon?style=social)](https://twitter.com/BlackGameNeon)
