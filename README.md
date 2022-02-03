@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hardware and Software Engineer at Universidad Tecnológica de México.
+<p><em>Hardware and Software Engineer at Universidad Tecnológica de México.</em></p>
 
 [![GitHub BlackGameNeon](https://img.shields.io/github/followers/blackgameneon?label=follow&style=social)](https://github.com/BlackGameNeon)
 [![Twitter: BlackGameNeon](https://img.shields.io/twitter/follow/BlackGameNeon?style=social)](https://twitter.com/BlackGameNeon)
